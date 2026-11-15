@@ -1,0 +1,6 @@
+#pragma once
+#cmakedefine01 ENEMY_ICON_ATLAS_USE_BC7
+
+namespace EnemyRegistry {
+inline constexpr char ATLAS_ENCODER_KEY[] = "@ATLAS_ENCODER_KEY@";
+}

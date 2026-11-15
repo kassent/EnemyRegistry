@@ -1,0 +1,17 @@
+{
+  "format": "EnemyRegistry.Enemy/v4",
+  "fixedId": 910001,
+  "enumName": "EM1999_00_0",
+  "messages": [
+    {
+      "key": "ExampleWyvern.Name",
+      "guid": "c78f7ed3-13ed-4b38-89d0-5ef41e701c3c",
+      "texts": {
+        "en": "Example Wyvern",
+        "ja": "サンプル竜",
+        "zh-Hans": "示例龙",
+        "zh-Hant": "範例龍"
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "sourceRepository": "https://github.com/kassent/mhwilds",
+  "sourceCommit": "85aaed8c5fb8a6aa8351fcf9485436d8f66f4cb9",
+  "sourceState": "working-tree snapshot; per-file hashes identify the exported files",
+  "sourceWorkingTreeChanges": [
+    "plugins/EnemyRegistry/CMakeLists.txt",
+    "plugins/EnemyRegistry/Plugin.cpp",
+    "plugins/EnemyRegistry/README.md"
+  ],
+  "commonCommit": "e7f816cef21dbe7db5bd2cbb0173269aaaa49093",
+  "hashNormalization": "CRLF to LF",
+  "files": {
+    "plugins/EnemyRegistry/.clang-format": {
+      "sha256": "c11d1a44c8d6108de5d80fc3cb07b7e6c3cf30fe32fe3cc15618538b81f50094",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/CMakeLists.txt": {
+      "sha256": "6dc2574c25e85d5e9acac282f883fe96b0b0dfa6c2d1e2bce201105fe37fd7e0",
+      "adapted": true
+    },
+    "plugins/EnemyRegistry/EnemyArrayCapacityPatches.cpp": {
+      "sha256": "2e933d715aec13604b0c2a3cc9286c43bfbc45feefe3aac8d4f60449b6f50bcd",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyEnumConfig.cpp": {
+      "sha256": "77d03257909f2ebd504b0584ad76ea2889a4eeb7eeefacc526e456a433f53d31",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyEnumConfig.h": {
+      "sha256": "81bd0c95bf4ce154d48498c7a0d962a0045a994556d2e509418899331aae8526",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyIconAtlas.cpp": {
+      "sha256": "6eb11f1ceb6e49d83b0392a73ad6f8885188929b0b3ba26f63a1d199227bdf71",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyIconAtlas.h": {
+      "sha256": "786b7b45cb09fae0d8547367041868e14bd58acd84c8dd1e0dbb97d8c9ae0521",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyIconAtlasBuild.h.in": {
+      "sha256": "3d6fa03b0e21a4e94dfc261d57e46154cc0eb5a98a365645ceaddae773cd2cf5",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyIconDiscovery.cpp": {
+      "sha256": "806307450628920ca7871d130f472fe9f675f5b9092c70db13f59b3b7cb93934",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyIconDiscovery.h": {
+      "sha256": "cb96a1822fd580e8397516233849032559378f7fc9bd57a1c65a942dab8a093d",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyIdRegistry.cpp": {
+      "sha256": "479e26fc5d1b677d8692d121344eab46d3c8f020727dc60a808d792d487f64c9",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyIdRegistry.h": {
+      "sha256": "1ece9373ddf81ad638858773e3e8783f13f8260a2fcd108033fe200d0b0e07aa",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyMessageOverrides.cpp": {
+      "sha256": "e72adef09469a1b6825d92b903b1b052ef0830ddaaee69d9f00e87f369a2f356",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyMessageOverrides.h": {
+      "sha256": "3e2379ca3abb6f9b9230f2cb7859620170e0d09300bc3ea32b55edaea29f1b5c",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyQuestVisibility.cpp": {
+      "sha256": "c83efb80cd63abd3d5a634c9f4f68c4ec2bc7d35aaf4042fd5bf0a162563bade",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyQuestVisibility.h": {
+      "sha256": "80a812c9171c93307c670713fd7180a1c8c9fde69235b20369c96fb2a7ce89d1",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyRegistrationHooks.cpp": {
+      "sha256": "3a7bd00cd205af9871b6a139491a43ff2deaaf2a297374d760c71a3f6cfdc6a6",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/EnemyRegistrationHooks.h": {
+      "sha256": "bf005a8288cc1a34b589415573a092ddff47c130eae983c97aa5103f5f79e907",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/Plugin.cpp": {
+      "sha256": "d66e4032e979f2e7c8772c9bf79be91ddbfa4588d4935167acf8f248e594f93d",
+      "adapted": false
+    },
+    "plugins/UserDataExtension/UserDataExtension.h": {
+      "sha256": "f5eba2e745e613751c8728676546c2d493c6ea8bf44280f358d46797eb4e6afa",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/Tests/EnemyDataIndexMidHookTests.h": {
+      "sha256": "062b64fd4a58e4b481dee74ef00fde520af8f4c1cc16d39a70409a3550c469f1",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/Tests/EnemyIconAtlasTests.cpp": {
+      "sha256": "c9634e0e4e15ea535d238d96faa8c17d3f8a60133637d5948a4ad3b6bc1b4dc6",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/Tests/EnemyIdRegistryTests.cpp": {
+      "sha256": "2bef600718537ea550a4cddfb8ddc5cd88020b43a1486f7b33da5edb1d09a38c",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/Tests/EnemyRegistrationHookAddressTests.h": {
+      "sha256": "beb86437c2523b62da2366469e4c4b29f6a3d429396b16395e6d05f9deb47b2f",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/Tests/QuestVisibilityMidHookTests.h": {
+      "sha256": "57a9ca8795856557006004064fadaef589dd975691b3f66f69405f65f9b73ce8",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/Tests/test_target_point_capacity.py": {
+      "sha256": "423b385d238a5d0063a8c50691cdd48c400c32521302801caf486abeb4f3e0c8",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/tools/prepare_shared_icon_atlas.py": {
+      "sha256": "822cb6293654f0b4050b43bfb4f65e21cdc8991dcdd45357afca6f18f9c8bbd9",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/third_party/bc7e/bc7e.ispc": {
+      "sha256": "e10f27ea5993679305537eafd854d9f0b58836470b5646b13858eac5593b4b8f",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/third_party/bc7e/CMakeLists.txt": {
+      "sha256": "1e6633068a222a67ec0c1d9e051d4f25810dde1b4f792d7f3d7ca37a70e850e4",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/third_party/bc7e/LICENSE": {
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "adapted": false
+    },
+    "plugins/EnemyRegistry/third_party/bc7e/SOURCE.md": {
+      "sha256": "fa2ce67957426fd4e7eb166da8c41c5071677376dc1932ed93fb0d722328a5c0",
+      "adapted": false
+    },
+    "plugins/ClassInjector/include/ClassProvider.h": {
+      "sha256": "13c42f2a21c4ec08a43427cdf0a9278d7016841e95d56e883806f73baff9f0c7",
+      "adapted": false
+    }
+  }
+}
